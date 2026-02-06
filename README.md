@@ -1,6 +1,8 @@
 # :snake: **PYLauncher**
 
-![Discord](https://img.shields.io/discord/1294681154695200839) ![GitHub License](https://img.shields.io/github/license/Dtar380/PyLauncher?style=plastic&color=0ae63d) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Dtar380/PyLauncher/total?style=plastic&label=Downloads&color=0ae63d)
+![Discord](https://img.shields.io/discord/1294681154695200839?style=for-the-badge&link=https%3A%2F%2Fdiscord.gg%2FQezKDY7s)
+
+ ![GitHub License](https://img.shields.io/github/license/Dtar380/PyLauncher?style=plastic&color=0ae63d) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Dtar380/PyLauncher/total?style=plastic&label=Downloads&color=0ae63d)
 
 ### **An Open-Source Non-Premium MC Launcher**
 
